@@ -6,7 +6,7 @@ import datetime
 import pyaudio
 
 r = sr.Recognizer()
-phone_numbers = {'manju': '+916305388355', 'mom': '+9105388355', 'dad': '+9190000000', 'akka': '+9177134667'}
+phone_numbers = {'manju': '+916305378355', 'mom': '+9105388355', 'dad': '+9190000000', 'akka': '+9177134667'}
 
 # Initialize the voice engine globally
 engine = pyttsx3.init()
